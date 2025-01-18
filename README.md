@@ -1,5 +1,3 @@
-# backend
+# Backend Project
 
-## Projekt 1 Victor och Hermes
-
-[Länk till sidan](https://cgi.arcada.fi/~heikkihe/Backend/projekt1-victorhermes)
+This was more of an "getting to know" PHP project than an actual project with a clear goal. There are some basic PHP functionality but also some database handling directly.
