@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #3D3D3D;
+    font-family: "Helvetice Neue", Helvetica, sans-serif;
+    height: 100%;
+}
+
+#login {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 15%;
+}
+
+div input {
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 250px;
+    height: 25px;
+    margin: 5px;
+    padding: 4px;
+}
+
+#submit {
+    width: fit-content;
+
+}
